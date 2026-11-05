@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-seo-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-seo",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-seo-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/seo.md",
+  "presentationPlan": "projects/cms/nuxt/seo.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
